@@ -1,0 +1,47 @@
+body{
+    background-image:url("https://e1.pxfuel.com/desktop-wallpaper/2/5/desktop-wallpaper-travel-agency-backgrounds-travel-agency.jpg");
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    margin-right: 50px;
+    font-size: 20px;
+}
+#footer{
+    position: fixed;
+    bottom: 0px;
+    
+    width: vw;
+}
+p{
+    font-weight:bold ;33
+    font-size: 20px;
+    text-align: center;
+
+}
+.abc{
+    text-align: center;
+}
+.abc2{
+    display: block;
+}
+#nancy{
+    text-align: center;
+    font-size: 45px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 3px;
+}
+
+
+#content{
+    text-align: center;
+}
+#md{
+    position:relative;
+    top:160px;
+    border: 2px solid black;
+}
+nav a:hover{
+    color:red;
+    transform: 1.05em;
+}
